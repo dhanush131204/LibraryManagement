@@ -1,0 +1,96 @@
+Library Management System Menu:
+1. Add Book
+2. Register User
+3. Borrow Book
+4. Return Book
+5. Display Books
+6. Exit
+Enter your choice: 1
+Enter book ID: 01
+Enter book title: Python
+Enter book author: Guido van Rossum
+Book added successfully!
+
+Library Management System Menu:
+1. Add Book
+2. Register User
+3. Borrow Book
+4. Return Book
+5. Display Books
+6. Exit
+Enter your choice: 1
+Enter book ID: 02
+Enter book title: c
+Enter book author: Dennis Ritchie
+Book added successfully!
+
+Library Management System Menu:
+1. Add Book
+2. Register User
+3. Borrow Book
+4. Return Book
+5. Display Books
+6. Exit
+Enter your choice: 1
+Enter book ID: 03
+Enter book title: Java
+Enter book author: James Gosling
+Book added successfully!
+
+Library Management System Menu:
+1. Add Book
+2. Register User
+3. Borrow Book
+4. Return Book
+5. Display Books
+6. Exit
+Enter your choice: 5
+
+Available Books:
+ID: 1 | Title: Python | Author: Guido van Rossum | Available: true
+ID: 2 | Title: c | Author: Dennis Ritchie | Available: true
+ID: 3 | Title: Java | Author: James Gosling | Available: true
+
+Library Management System Menu:
+1. Add Book
+2. Register User
+3. Borrow Book
+4. Return Book
+5. Display Books
+6. Exit
+Enter your choice: 2
+Enter user ID: 11
+Enter user name: dhanush
+User registered successfully!
+
+Library Management System Menu:
+1. Add Book
+2. Register User
+3. Borrow Book
+4. Return Book
+5. Display Books
+6. Exit
+Enter your choice: 3
+Enter book ID to borrow: 03
+Book 'Java' has been borrowed.
+
+Library Management System Menu:
+1. Add Book
+2. Register User
+3. Borrow Book
+4. Return Book
+5. Display Books
+6. Exit
+Enter your choice: 4
+Enter book ID to return: 03
+Book 'Java' has been returned.
+
+Library Management System Menu:
+1. Add Book
+2. Register User
+3. Borrow Book
+4. Return Book
+5. Display Books
+6. Exit
+Enter your choice: 6
+Exiting Library Management System. Goodbye
